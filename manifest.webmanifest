@@ -1,0 +1,16 @@
+{
+  "name": "Servo Skull Tracker",
+  "short_name": "Servo Skull",
+  "description": "Space Marine collectible tracker with persistent progress and offline caching.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#ffb74d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
